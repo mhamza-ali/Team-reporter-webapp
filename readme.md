@@ -14,9 +14,9 @@ Login Features:
     
 
 Team management Features:
-    1.Team Owner and teams view.
-    2.Team owner mode is login is restricted to team members but unrestricted for Managers to set and check reports  of teams.
-    3.Help Managers to review the daily task their comapany teams do.
-    4.This app should let the managers to view weekly teams performance in a single glance instead of scheduling weekend meetings
-    5.Task questions should be set  accordingly by the Manager
+ -   1.Team Owner and teams view.
+ -   2.Team owner mode is login is restricted to team members but unrestricted for Managers to set and check reports  of teams.
+ -   3.Help Managers to review the daily task their comapany teams do.
+ -   4.This app should let the managers to view weekly teams performance in a single glance instead of scheduling weekend meetings
+ -   5.Task questions should be set  accordingly by the Manager
 
