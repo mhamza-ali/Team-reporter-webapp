@@ -1,4 +1,5 @@
-# Team-reporter-webapp
+
+<<<<<<< HEAD
 SignUp Features:
 
     1.Always taking a unique user name.
@@ -18,3 +19,7 @@ Team management Features:
     3.Help Managers to review the daily task their comapany teams do.
     4.This app should let the managers to view weekly teams performance in a single glance instead of scheduling weekend meetings
     5.Task questions should be set  accordingly by the Manager
+=======
+
+
+>>>>>>> a3bf08a3fdaeba5686a505e306dfc132142787be
