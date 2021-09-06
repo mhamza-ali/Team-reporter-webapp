@@ -19,4 +19,5 @@ Team management Features:
  -   3.Help Managers to review the daily task their comapany teams do.
  -   4.This app should let the managers to view weekly teams performance in a single glance instead of scheduling weekend meetings
  -   5.Task questions should be set  accordingly by the Manager
+ -   6.Data will be saved in the localstorage as well.
 
