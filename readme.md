@@ -11,6 +11,8 @@ Login Features:
 
     1.Login Features Same Like Facebook
     2.If Email and Password Match then login otherwise alert show.
+    
+    
 
 Team management Features:
     1.Team Owner and teams view.
