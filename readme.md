@@ -1,4 +1,3 @@
-
 SignUp Features:
 
     1.Always taking a unique user name.
